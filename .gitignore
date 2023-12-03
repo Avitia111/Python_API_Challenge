@@ -142,8 +142,8 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-Instructions/starter_code/api_keys.py
-
+Python_API_Challenge/python-api-challenge/Instructions
+/starter_code/
 
 # Pyre type checker
 .pyre/
